@@ -1,3 +1,6 @@
 1. belajar python
 2. belajar django python
 3. belajar github web
+4. skill bootstrapt4 upgrade
+5. skill Java Script upgrade
+6. skill nodeJS dan NPM upgrade
